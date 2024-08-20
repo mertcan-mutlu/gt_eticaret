@@ -3,3 +3,5 @@
 *.java linguist-detectable=false
 *.php linguist-detectable=true
 *.html linguist-detectable=false
+*.less linguist-detectable=false
+*.scss linguist-detectable=false
