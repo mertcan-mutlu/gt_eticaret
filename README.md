@@ -13,7 +13,8 @@
   <a href="#otp-smsapi">Sms Api</a>
 </p>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/12dc3ff6-07da-43db-a403-2a6a080ef3ed" alt="animated" />
+  <img src="https://github.com/user-attachments/assets/9b3066e0-1d9f-4bbe-abee-51238354c15b" alt="animated" />
+
 </p>
 
 ## Key Features
